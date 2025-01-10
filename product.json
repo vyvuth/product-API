@@ -274,6 +274,28 @@
       "source_of_product": "USA",
       "date_of_made": "2024-02-24",
       "category": "smartphone"
+    },
+    {
+      "id": 26,
+      "title": "Gaming ROG Phone",
+      "image": "https://www.revu.com.ph/wp-content/uploads/2022/07/ASUS-ROG-Phone-6-hands-on-and-price-and-specs-via-Revu-Philippines-c.jpg",
+      "price": 1257.03,
+      "model": "SmartProMax2024",
+      "description": "Budget Smartphone Lite with premium quality and latest features.",
+      "source_of_product": "China",
+      "date_of_made": "2024-02-24",
+      "category": "smartphone"
+    },
+    {
+      "id": 27,
+      "title": "S20 Ultra Smart",
+      "image": "https://images.samsung.com/is/image/samsung/levant-feature-keep-a-card-on-hand-223129460?$FB_TYPE_A_MO_JPG$",
+      "price": 1257.03,
+      "model": "SmartProMax2024",
+      "description": "Budget Smartphone Lite with premium quality and latest features.",
+      "source_of_product": "USA",
+      "date_of_made": "2024-02-24",
+      "category": "smartphone"
     }
   ]
 }
