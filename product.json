@@ -1,0 +1,279 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Running Shoes",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 172.67,
+      "model": "FormalLux",
+      "description": "Sneakers with premium quality and latest features.",
+      "source_of_product": "Italy",
+      "date_of_made": "2023-12-06",
+      "category": "shoes"
+    },
+    {
+      "id": 2,
+      "title": "Slim Fit Jeans",
+      "image": "https://www.snitch.co.in/cdn/shop/files/9ac04f536ff9e8a40f2c04c13b2ac8e8.jpg?v=1732601799",
+      "price": 638.94,
+      "model": "Tee2025",
+      "description": "Hoodie with premium quality and latest features.",
+      "source_of_product": "USA",
+      "date_of_made": "2024-01-25",
+      "category": "clothes"
+    },
+    {
+      "id": 3,
+      "title": "Formal Leather Shoes",
+      "image": "https://teakwoodleathers.com/cdn/shop/files/T_SH_LWE_LU013_BR_1080x.jpg?v=1715672409",
+      "price": 1019.99,
+      "model": "RunX2024",
+      "description": "Hiking Boots with premium quality and latest features.",
+      "source_of_product": "South Korea",
+      "date_of_made": "2023-03-01",
+      "category": "shoes"
+    },
+    {
+      "id": 4,
+      "title": "Foldable Phone X",
+      "image": "https://eu-exstatic-vivofs.vivo.com/8Xa6evfY85lu15Pb/1649749471236/b276b1c48e29f388505d56d92dae0ac1.png",
+      "price": 1258.9,
+      "model": "SmartLite2024",
+      "description": "Flagship Smartphone Pro with premium quality and latest features.",
+      "source_of_product": "China",
+      "date_of_made": "2023-03-02",
+      "category": "smartphone"
+    },
+    {
+      "id": 5,
+      "title": "Formal Leather Shoes",
+      "image": "https://pellealbero.com/cdn/shop/products/7_c9233220-c25b-4cd2-9b22-adfe882218d6.jpg?v=1659354515",
+      "price": 464.68,
+      "model": "SneakerPro",
+      "description": "Running Shoes with premium quality and latest features.",
+      "source_of_product": "Italy",
+      "date_of_made": "2023-08-01",
+      "category": "shoes"
+    },
+    {
+      "id": 6,
+      "title": "Budget Smartphone Lite",
+      "image": "https://images-cdn.ubuy.co.in/634e381f3605e63b263b335d-huawei-honor-10-lite-32gb-3gb-ram.jpg",
+      "price": 609.19,
+      "model": "GamePhoneZ",
+      "description": "Gaming Phone Z with premium quality and latest features.",
+      "source_of_product": "China",
+      "date_of_made": "2024-12-23",
+      "category": "smartphone"
+    },
+    {
+      "id": 7,
+      "title": "Leather Jacket",
+      "image": "https://cdn.optipic.io/site-2236/images/jackets/davidbeckhamleatherjacket1_1.jpg",
+      "price": 52.83,
+      "model": "HoodieXL",
+      "description": "Casual Cotton T-Shirt with premium quality and latest features.",
+      "source_of_product": "Italy",
+      "date_of_made": "2024-06-05",
+      "category": "clothes"
+    },
+    {
+      "id": 8,
+      "title": "Running Shoes",
+      "image": "https://images.pexels.com/photos/1040427/pexels-photo-1040427.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 1386.43,
+      "model": "SneakerPro",
+      "description": "Hiking Boots with premium quality and latest features.",
+      "source_of_product": "China",
+      "date_of_made": "2023-06-15",
+      "category": "shoes"
+    },
+    {
+      "id": 9,
+      "title": "Formal Leather Shoes",
+      "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 90.33,
+      "model": "RunX2024",
+      "description": "Sneakers with premium quality and latest features.",
+      "source_of_product": "China",
+      "date_of_made": "2023-03-17",
+      "category": "shoes"
+    },
+    {
+      "id": 10,
+      "title": "Tablet Pro",
+      "image": "https://images.pexels.com/photos/13791392/pexels-photo-13791392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 2465.19,
+      "model": "GX15-2024",
+      "description": "Gaming Laptop GX15 with premium quality and latest features.",
+      "source_of_product": "Vietnam",
+      "date_of_made": "2023-03-17",
+      "category": "computers"
+    },
+    {
+      "id": 11,
+      "title": "Casual Cotton T-Shirt",
+      "image": "https://images.pexels.com/photos/8148576/pexels-photo-8148576.jpeg?auto=compress&cs=tinysrgb&w=400a",
+      "price": 376.55,
+      "model": "Tee2025",
+      "description": "Leather Jacket with premium quality and latest features.",
+      "source_of_product": "South Korea",
+      "date_of_made": "2023-10-08",
+      "category": "clothes"
+    },
+    {
+      "id": 12,
+      "title": "Formal Leather Shoes",
+      "image": "https://images.pexels.com/photos/12210270/pexels-photo-12210270.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 951.5,
+      "model": "SneakerPro",
+      "description": "Sandals with premium quality and latest features.",
+      "source_of_product": "China",
+      "date_of_made": "2024-03-04",
+      "category": "shoes"
+    },
+    {
+      "id": 13,
+      "title": "Desktop Workstation",
+      "image": "https://images.pexels.com/photos/27467772/pexels-photo-27467772/free-photo-of-wireless-laptop-with-mouse-on-desk.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 1293.28,
+      "model": "TabPro2024",
+      "description": "Gaming Laptop GX15 with premium quality and latest features.",
+      "source_of_product": "Vietnam",
+      "date_of_made": "2023-12-19",
+      "category": "computers"
+    },
+    {
+      "id": 14,
+      "title": "Sneakers",
+      "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "price": 521.85,
+      "model": "FormalLux",
+      "description": "Running Shoes with premium quality and latest features.",
+      "source_of_product": "USA",
+      "date_of_made": "2024-05-18",
+      "category": "shoes"
+    },
+    {
+      "id": 15,
+      "title": "Sandals",
+      "image": "https://i5.walmartimages.com/asr/3a15ec9d-0cce-4262-8b26-3715f5f966ac.e370a364ef665dc409d0b18ba6939f66.jpeg",
+      "price": 1483.28,
+      "model": "HikeMaster",
+      "description": "Formal Leather Shoes with premium quality and latest features.",
+      "source_of_product": "Germany",
+      "date_of_made": "2024-02-20",
+      "category": "shoes"
+    },
+    {
+      "id": 16,
+      "title": "Summer Dress",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQv-g_Iw1SEj_WChSK1Bwv1g0gVvn5f6knw&s",
+      "price": 1361.39,
+      "model": "DressSummer",
+      "description": "Hoodie with premium quality and latest features.",
+      "source_of_product": "China",
+      "date_of_made": "2023-05-17",
+      "category": "clothes"
+    },
+    {
+      "id": 17,
+      "title": "Sneakers",
+      "image": "https://m.media-amazon.com/images/I/41lgYSRDE1L.jpg",
+      "price": 579.93,
+      "model": "RunX2024",
+      "description": "Sandals with premium quality and latest features.",
+      "source_of_product": "South Korea",
+      "date_of_made": "2024-05-02",
+      "category": "shoes"
+    },
+    {
+      "id": 18,
+      "title": "Slim Fit Jeans",
+      "image": "https://forage-clothing.com/cdn/shop/files/DSC08562_3_1500x.jpg?v=1708359475",
+      "price": 1394.0,
+      "model": "DenimSlim23",
+      "description": "Hoodie with premium quality and latest features.",
+      "source_of_product": "China",
+      "date_of_made": "2024-11-07",
+      "category": "clothes"
+    },
+    {
+      "id": 19,
+      "title": "All-in-One PC",
+      "image": "https://m.media-amazon.com/images/I/61qplm+4S3L.jpg",
+      "price": 749.98,
+      "model": "Notebook-Slim2024",
+      "description": "Gaming Laptop GX15 with premium quality and latest features.",
+      "source_of_product": "India",
+      "date_of_made": "2024-02-03",
+      "category": "computers"
+    },
+    {
+      "id": 20,
+      "title": "Hoodie",
+      "image": "https://image.uniqlo.com/UQ/ST3/my/imagesgoods/444967/item/mygoods_57_444967_3x4.jpg?width=494",
+      "price": 150.45,
+      "model": "DenimSlim23",
+      "description": "Leather Jacket with premium quality and latest features.",
+      "source_of_product": "Germany",
+      "date_of_made": "2024-03-11",
+      "category": "clothes"
+    },
+    {
+      "id": 21,
+      "title": "Hoodie",
+      "image": "https://img01.ztat.net/article/spp-media-p1/7e93770577824b0daa8abc7d62473e11/085aa5e7aca34fab862befde6ac85eaf.jpg?imwidth=300",
+      "price": 774.65,
+      "model": "HoodieXL",
+      "description": "Casual Cotton T-Shirt with premium quality and latest features.",
+      "source_of_product": "Vietnam",
+      "date_of_made": "2023-06-26",
+      "category": "clothes"
+    },
+    {
+      "id": 22,
+      "title": "Formal Leather Shoes",
+      "image": "https://pellealbero.com/cdn/shop/files/2-copy.jpg?v=1720682388",
+      "price": 31.45,
+      "model": "FormalLux",
+      "description": "Sneakers with premium quality and latest features.",
+      "source_of_product": "India",
+      "date_of_made": "2023-01-17",
+      "category": "shoes"
+    },
+    {
+      "id": 23,
+      "title": "Casual Cotton T-Shirt",
+      "image": "https://img.joomcdn.net/5b2f63d2cc6ca4d511926d355da5d69eb41f5837_original.jpeg",
+      "price": 1294.73,
+      "model": "DenimSlim23",
+      "description": "Leather Jacket with premium quality and latest features.",
+      "source_of_product": "Italy",
+      "date_of_made": "2023-01-26",
+      "category": "clothes"
+    },
+    {
+      "id": 24,
+      "title": "Slim Fit Jeans",
+      "image": "https://outfitters.com.pk/cdn/shop/files/F0446109622_6_copy.jpg?v=1724998919",
+      "price": 1325.58,
+      "model": "DenimSlim23",
+      "description": "Leather Jacket with premium quality and latest features.",
+      "source_of_product": "China",
+      "date_of_made": "2024-03-29",
+      "category": "clothes"
+    },
+    {
+      "id": 25,
+      "title": "Gaming Phone Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oQNGq2Z9AenbgNUmFwHMKA.jpg",
+      "price": 1257.03,
+      "model": "SmartProMax2024",
+      "description": "Budget Smartphone Lite with premium quality and latest features.",
+      "source_of_product": "USA",
+      "date_of_made": "2024-02-24",
+      "category": "smartphone"
+    }
+  ]
+}
