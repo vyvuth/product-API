@@ -296,6 +296,39 @@
       "source_of_product": "USA",
       "date_of_made": "2024-02-24",
       "category": "smartphone"
+    },
+    {
+      "id": 28,
+      "title": "MSI Thin 15",
+      "image": "https://www.radiancecomputer.com/wp-content/uploads/2024/02/MSI-Thin-15-B12UC-324x324.jpg",
+      "price": 1257.03,
+      "model": "SmartProMax2024",
+      "description": "Budget Smartphone Lite with premium quality and latest features.",
+      "source_of_product": "USA",
+      "date_of_made": "2024-02-24",
+      "category": "smartphone"
+    },
+    {
+      "id": 29,
+      "title": "AllainWare 2025",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/modules/cs2404g0018-700634-gl-cs-co-aw-m16-site-banner-hp-feature-card-desktop-1440x1080.jpg?fmt=png-alpha&wid=1440&hei=1080",
+      "price": 1257.03,
+      "model": "SmartProMax2024",
+      "description": "Budget Smartphone Lite with premium quality and latest features.",
+      "source_of_product": "USA",
+      "date_of_made": "2024-02-24",
+      "category": "smartphone"
+    },
+    {
+      "id": 30,
+      "title": "Asus ROG Scare",
+      "image": "https://m.media-amazon.com/images/I/71bgLSBYzrL.jpg",
+      "price": 1257.03,
+      "model": "SmartProMax2024",
+      "description": "Budget Smartphone Lite with premium quality and latest features.",
+      "source_of_product": "USA",
+      "date_of_made": "2024-02-24",
+      "category": "smartphone"
     }
   ]
 }
